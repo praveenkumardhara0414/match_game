@@ -1,0 +1,22 @@
+.tab-item {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-right: 40px;
+  height: 50px;
+  border: 0px solid;
+}
+.is-tab-item {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-right: 40px;
+  height: 50px;
+  color: #fec653;
+  border: 2px solid #fec653;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.each-button {
+  background-color: transparent;
+}
